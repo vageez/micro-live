@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/live/(.*)",
+      "destination": "/$1"
+    }
+  ]
+}
